@@ -104,43 +104,43 @@ flowchart TD
 
 ### 1️⃣ Main Menu & Dataset Loading
 
-![Main Menu and Load](Screenshot-1.png)
+![Main Menu and Load](Screenshots/Screenshot-1.png)
 
 ### 2️⃣ Explore — Shape, Head & Tail
 
-![Explore Head Tail](Screenshot-2.png)
+![Explore Head Tail](Screenshots/Screenshot-2.png)
 
 ### 3️⃣ Explore — Columns, Dtypes & Info
 
-![Explore Dtypes Info](Screenshot-3.png)
+![Explore Dtypes Info](Screenshots/Screenshot-3.png)
 
 ### 4️⃣ Data Preparation
 
-![Prepare Data](Screenshot-4.png)
+![Prepare Data](Screenshorts/Screenshot-4.png)
 
 ### 5️⃣ DataFrame Operations — Day/Month & Top City
 
-![DataFrame Ops 1](Screenshot-5.png)
+![DataFrame Ops 1](Screenshots/Screenshot-5.png)
 
 ### 6️⃣ Max/Min Profit Categories & Correlation
 
-![DataFrame Ops 2](Screenshot-6.png)
+![DataFrame Ops 2](Screenshots/Screenshot-6.png)
 
 ### 7️⃣ Descriptive Statistics
 
-![Descriptive Stats](Screenshot-7.png)
+![Descriptive Stats](Screenshots/Screenshot-7.png)
 
 ### 8️⃣ Visualization Menu
 
-![Visualization Menu](Screenshot-8.png)
+![Visualization Menu](Screenshots/Screenshot-8.png)
 
 ### 9️⃣ Running Multiple Charts
 
-![Visualization Running](Screenshot-9.png)
+![Visualization Running](Screenchots/Screenshot-9.png)
 
 ### 🔟 Exit
 
-![Exit](Screenshot-10.png)
+![Exit](Screenshots/Screenshot-10.png)
 
 ---
 
